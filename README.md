@@ -6,4 +6,3 @@
 - I am currently looking to enter the job market
 
 - My main technologies are **React.JS, Node.JS and TypeScript**
-# ewerton-reis-
