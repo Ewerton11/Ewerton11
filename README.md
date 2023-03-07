@@ -1,8 +1,9 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Ewerton Reis</h1>
 
-<p align="left">
-  <img width="300em" height="290em" src="[URL of your profile picture or avatar]">
-</p>
+<!-- <p align="left">
+  <img width="300em" height="290em" src="https://github.com/ewerton11.png">
+  <img width="300em" height="290em" src="https://i.imgur.com/Z7n8bBU.gif">
+</p> -->
 
 I'm a Full Stack Developer always looking for new challenges and opportunities to learn and grow. Currently, I'm looking to enter the job market and contribute to amazing projects. My main technologies and tools are **React.JS**, **Node.JS**, and **TypeScript**.
 
@@ -18,10 +19,10 @@ I'm a Full Stack Developer always looking for new challenges and opportunities t
 - Express
 - MySQL
 
-### 🚀 Projects
+<!-- ### 🚀 Projects
 
 - [List of your most significant projects and their links]
-
+ -->
 ### 🌱 Learning
 
 - English language skills
