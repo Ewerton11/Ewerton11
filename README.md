@@ -9,14 +9,10 @@ I'm a Full Stack Developer always looking for new challenges and opportunities t
 
 ### 💼 Skills
 
-- JavaScript
-- TypeScript
-- Node.js
-- React.js
-- Next.js
-- Puppeteer
+- JavaScript / TypeScript
+- Node.js / Express / Puppeteer ecosystem
+- React.js / Next.js ecosystem
 - Styled Components
-- Express
 - MySQL
 
 <!-- ### 🚀 Projects
