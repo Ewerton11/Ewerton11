@@ -26,7 +26,7 @@ I'm a Full Stack Developer always looking for new challenges and opportunities t
 ### 🌱 Learning
 
 - English language skills
-- Golang
+- .Net
 - Docker
 - Clean code design principles
 
