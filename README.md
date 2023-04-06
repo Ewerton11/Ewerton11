@@ -12,8 +12,9 @@ I'm a Full Stack Developer always looking for new challenges and opportunities t
 - JavaScript / TypeScript
 - Node.js / Express / Puppeteer ecosystem
 - React.js / Next.js ecosystem
-- Styled Components
 - MySQL
+- Linux
+- Docker
 
 <!-- ### 🚀 Projects
 
@@ -21,11 +22,9 @@ I'm a Full Stack Developer always looking for new challenges and opportunities t
  -->
 ### 🌱 Learning
 
-- English language skills
 - .Net
-- Docker
 - Clean code design principles
-
+- English language skills
 
 ### 💬 Get in touch
 
