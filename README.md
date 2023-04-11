@@ -2,7 +2,7 @@
 
 I develop **FullStack** applications and am always looking for new challenges and knowledge. I like to stay up to date on the latest trends and tools to create innovative solutions.
 
-### Skills
+### 📚 Main Skills
 
 - JavaScript / TypeScript
 - Node.js / Express
