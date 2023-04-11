@@ -1,30 +1,14 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Ewerton Reis</h1>
 
-<!-- <p align="left">
-  <img width="300em" height="290em" src="https://github.com/ewerton11.png">
-  <img width="300em" height="290em" src="https://i.imgur.com/Z7n8bBU.gif">
-</p> -->
+I develop **FullStack** applications and am always looking for new challenges and knowledge. I like to stay up to date on the latest trends and tools to create innovative solutions.
 
-I'm a Full Stack Developer always looking for new challenges and opportunities to learn and grow. Currently, I'm looking to enter the job market and contribute to amazing projects. My main technologies and tools are **React.JS**, **Node.JS**, and **TypeScript**.
-
-### 💼 Skills
+### Skills
 
 - JavaScript / TypeScript
-- Node.js / Express / Puppeteer ecosystem
-- React.js / Next.js ecosystem
-- MySQL
-- Linux
-- Docker
+- Node.js / Express
+- React.js / Next.js
+- .NET Core / ASP.NET Core
 
-<!-- ### 🚀 Projects
-
-- [List of your most significant projects and their links]
- -->
-### 🌱 Learning
-
-- .Net
-- Clean code design principles
-- English language skills
 
 ### 💬 Get in touch
 
