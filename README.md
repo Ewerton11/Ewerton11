@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Ewerton Reis</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Ewerton Reis</h1>
 
 I develop **FullStack** applications and am always looking for new challenges and knowledge. I like to stay up to date on the latest trends and tools to create innovative solutions.
 
