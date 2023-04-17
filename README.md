@@ -15,7 +15,7 @@ I develop **FullStack** applications and am always looking for new challenges an
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
-### 💬 Get in touch
+### 💬 Get in touch:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ewerton11/)
 [![E-mail](https://img.shields.io/badge/E--mail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ewertonreisc0@gmail.com)
