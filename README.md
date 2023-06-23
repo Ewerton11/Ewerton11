@@ -18,7 +18,7 @@ I develop **FullStack** applications and am always looking for new challenges an
 #### 💬 Get in touch:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ewerton11/)
-[![E-mail](https://img.shields.io/badge/E--mail-%23D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:ewertonrc01@gmail.com)
+[![E-mail](https://img.shields.io/badge/E--mail-%23D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:ewertonreisc01@gmail.com)
 
 Thanks for showing up! Let's connect and build something great together. 😄
 
