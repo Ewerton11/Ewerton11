@@ -7,6 +7,7 @@ I'm a developer passionate about technology and I'm always looking for new chall
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-%23512BD4.svg?style=flat&logo=.net&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-%23512BD4.svg?style=flat&logo=.net&logoColor=white)
 ![Entity Framework Core](https://img.shields.io/badge/EF%20Core-%23512BD4.svg?style=flat&logo=.net&logoColor=white)
+![xUnit](https://img.shields.io/badge/xUnit-%23007ACC.svg?style=flat&logo=xunit&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=flat&logo=microsoft-sql-server&logoColor=white)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)](https://www.docker.com/) <br>
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
